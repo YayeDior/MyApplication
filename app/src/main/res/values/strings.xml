@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">My application</string>
+    <string name="random_heading">Here is a random number between 0 and %1d</string>
+    <string name="random">Random</string>
+    <string name="r">R</string>
+    <string name="button">Button</string>
+    <string name="toast">Toast</string>
+    <string name="count">Count</string>
+    <string name="to_do">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="application">application</string>
+    <string name="welcome">welcome</string>
+    <string name="exemple_d_application">exemple d\'application</string>
+    <string name="Description">Description</string>
+
+
 </resources>
