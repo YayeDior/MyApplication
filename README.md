@@ -6,7 +6,7 @@ Dans le cadre de ce projet,nous devons developper une application mobile en resp
 
 Prérequis:
 
-Télécharsger Android studio 
+Télécharger Android studio
 Création d'un compte Github
 
 Consignes respectées:
@@ -29,7 +29,15 @@ Deuxième écran
 
 Mon deuxième écran affiche ma RecyclerView.Il s'agit ici d'une liste de pokemons, leurs noms et leurs images.
 
+<img width="177" alt="recycler view" src="https://user-images.githubusercontent.com/46995540/55432082-51f35b00-5592-11e9-88ef-347d0b1bd595.PNG">
 
+Troisième écran 
+
+Le troisième écran affiche le détail de chaque pokémon.
+
+Conclusion
+
+Ce projet a été tres bénéfique pour moi dans la mesure ou il m'a permis d'avoir des notions en android et de  pouvoir développer une application mobile sur les pokémons.
 
 
 
