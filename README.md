@@ -37,7 +37,7 @@ Le troisième écran affiche le détail de chaque pokémon.
 
 Conclusion
 
-Ce projet a été tres bénéfique pour moi dans la mesure ou il m'a permis d'avoir des notions en android et de  pouvoir développer une application mobile sur les pokémons.
+Ce projet a été tres bénéfique pour moi dans la mesure ou il m'a permis d'avoir des notions en android et aussi de découvrir le langage xml.
 
 
 
